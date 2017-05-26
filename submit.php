@@ -31,7 +31,7 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div style="text-align: center; margin-top: 50px;" class="boxes col-md-6 col-md-offset-3">
+        <div style="text-align: center; margin-top: 50px;" class="boxes col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xs-offset-3 col-sm-offset-3 col-md-offset-3 col-lg-offset-3">
             <form action="#" method="post" name="lovepost" onsubmit="return CheckPost();">
             Name: <br />
             <input type="text" size="10" name="username"><br /><br />
