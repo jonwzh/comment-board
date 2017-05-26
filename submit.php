@@ -38,7 +38,7 @@
             <form action="#" method="post" name="lovepost" onsubmit="return CheckPost();">
             Name: <br />
             <input type="text" size="10" name="username"><br /><br />
-            Content: <br /><textarea name="content" id="contentbox" cols="50"></textarea><br /><br />
+            Content: <br /><textarea name="content" id="contentbox" rows="20"></textarea><br /><br />
             <input type="submit" name="submit" value="Submit!">
             </form>
         </div>
