@@ -41,3 +41,7 @@
 .content {
     margin-left: 20px;
 }
+
+#contentbox {
+    width: 70%;
+}
